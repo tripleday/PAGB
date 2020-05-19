@@ -6,7 +6,7 @@ Implementation is based on https://github.com/oleiba/RSA-accumulator
 
 The data owner outsources the graph data to the cloud while sends prime representative to the blockchain (the cloud as well for generating proofs).
 
-Datasets includes
+Datasets include
 * https://snap.stanford.edu/data/ca-CondMat.html
 simple directed graph, social network
 * https://sparse.tamu.edu/vanHeukelum/cage15
